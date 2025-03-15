@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Ryan Walterhouse
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -16,8 +16,9 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: "Ryan Walterhouse is a security professional who builds on
+  experience as a police officer in protecting personnel, sensitive information,
+  and government facilities. "
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Ryan Walterhouse is a security professional who builds on experience as a police officer in protecting personnel, sensitive information, and government facilities. Responsible for access oversight, he monitors exit and entry points of facilities and maintains alarm, CCTV, and other security systems. Ryan Walterhouse undertakes regular patrols that ensure proper premises safety and security. He engages collaboratively with various federal agencies, as well as private contractors and local law enforcement.
